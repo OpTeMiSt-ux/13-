@@ -1,8 +1,22 @@
 #CT1 {
     text-decoration: none;
-    color: brown;
+    color: darkgreen;
 }
 #CT2 {
     text-decoration: none;
-    color: brown;
+    color: darkgreen;
+}
+
+body {
+    background-color: pink;
+}
+
+#i-1 {
+    text-decoration: underline; 
+    font-size: 1.5em;
+}
+
+.p-1 {
+    font-size: 2em;
+    color: #FFFF;
 }
